@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello world
 
+=======
+Hello welcome to Devops
+hi this is Ram kumar
+>>>>>>> 8ffed9aeefc077de74ef1519e9934468b34dea80
