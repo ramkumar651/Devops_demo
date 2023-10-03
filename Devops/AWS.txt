@@ -1,0 +1,4 @@
+welcome to learning Devops
+in this u will learn :
+linux
+GIT & git hub
